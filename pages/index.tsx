@@ -14,13 +14,13 @@ const IndexPage = () => (
       className="absolute w-full left-24 bottom-24 animate-blob2"
     />
     <div className="relative z-10 py-6 space-y-16 lg:space-y-32 text-gray-900">
-      <div className="text-center space-y-10">
+      <div className="text-center space-y-10 max-w-[1000px]">
         <h3 className="font-light text-xl uppercase tracking-wider">
-          Coming soon
+          Township Ventures
         </h3>
-        <h1 className="text-7xl lg:text-8xl font-extrabold">Township Ventures</h1>
+        <h1 className="text-5xl lg:text-6xl font-extrabold px-16 leading-tight lg:leading-tight">We buy <u>Texas</u> businesses and build them to last <u>forever</u></h1>
         <p className="text-xl lg:text-2xl tracking-wide mx-10 lg:max-w-xl lg:mx-auto">
-          We buy human infrastructure businesses and build them to last centuries.
+          Coming Soon.
         </p>
 				<p className="text-base">
 					We are currently under construction. <br /> Check back for updates.
